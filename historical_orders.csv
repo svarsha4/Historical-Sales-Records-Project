@@ -1,0 +1,225 @@
+order_id,first_name,last_name,date_of_birth,phone,email,street,city,postal_code,state,order_date,payment_type,product_name,price,quantity,order_total
+1,Sage,Wieser,9/16/1998,605-414-2147,sage_wieser@cox.net,5 Boston Ave #88,Sioux Falls,57105,SD,10/1/2016,VISA                     ,Strongtam,18.99,4,75.96
+3,Bette,Nicka,12/28/1978,610-545-3615,bette_nicka@cox.net,6 S 33rd St,Aston,19014,PA,11/29/2016,VISA                     ,Runhome,2.99,3,158.93
+3,Bette,Nicka,12/28/1978,610-545-3615,bette_nicka@cox.net,6 S 33rd St,Aston,19014,PA,11/29/2016,VISA                     ,Runhome,71.99,2,158.93
+3,Bette,Nicka,12/28/1978,610-545-3615,bette_nicka@cox.net,6 S 33rd St,Aston,19014,PA,11/29/2016,VISA                     ,Vilaity,2.99,2,158.93
+4,Solange,Shinko,1/12/1979,504-979-9175,solange@shinko.com,84 Bloomfield Ave,Spartanburg,29301,SC,6/9/2013,ACH                      ,Solo-In,72.99,3,218.97
+5,Tamar,Hoogland,2/20/1979,740-343-8575,tamar@hotmail.com,1321 Balsam,Boulder,80026,CO,11/15/2016,MASTER CARD              ,Stimstring,16.99,3,146.96
+5,Tamar,Hoogland,2/20/1979,740-343-8575,tamar@hotmail.com,1321 Balsam,Boulder,80026,CO,11/15/2016,MASTER CARD              ,Trans Zimnix,95.99,1,146.96
+6,Sage,Wieser,9/16/1998,605-414-2147,sage_wieser@cox.net,5 Boston Ave #88,Sioux Falls,57105,SD,8/21/2015,BANK ACCOUNT             ,K-qvokix,47.99,4,211.95
+6,Sage,Wieser,9/16/1998,605-414-2147,sage_wieser@cox.net,5 Boston Ave #88,Sioux Falls,57105,SD,8/21/2015,BANK ACCOUNT             ,Qvo-Is,19.99,1,211.95
+7,Malinda,Hochard,3/14/1979,317-722-5066,malinda.hochard@yahoo.com,6 Gilson St,Bronx,10468,NY,1/28/2014,MASTER CARD              ,Stimstring,80.99,2,179.97
+7,Malinda,Hochard,3/14/1979,317-722-5066,malinda.hochard@yahoo.com,6 Gilson St,Bronx,10468,NY,1/28/2014,MASTER CARD              ,Temp Tip,17.99,1,179.97
+8,Blondell,Pugh,2/6/1979,401-960-8259,bpugh@aol.com,201 Hawk Ct,Providence,2904,RI,3/3/2013,MASTER CARD              ,Sil-Ity,83.99,2,207.97
+8,Blondell,Pugh,2/6/1979,401-960-8259,bpugh@aol.com,201 Hawk Ct,Providence,2904,RI,3/3/2013,MASTER CARD              ,K-qvokix,39.99,1,207.97
+9,Amber,Monarrez,2/2/1979,215-934-8655,amber_monarrez@monarrez.org,55262 N French Rd,Indianapolis,46240,IN,4/6/2014,ACH                      ,Sil-Ity,100.99,4,477.93
+9,Amber,Monarrez,2/2/1979,215-934-8655,amber_monarrez@monarrez.org,55262 N French Rd,Indianapolis,46240,IN,4/6/2014,ACH                      ,Qvo-Is,9.99,2,477.93
+9,Amber,Monarrez,2/2/1979,215-934-8655,amber_monarrez@monarrez.org,55262 N French Rd,Indianapolis,46240,IN,4/6/2014,ACH                      ,Duo-Kix,53.99,1,477.93
+10,Lai,Gato,3/5/1979,847-728-7286,lai.gato@gato.org,555 Main St,Erie,16502,PA,6/9/2016,MASTER CARD              ,Runhome,62.99,2,174.93
+10,Lai,Gato,3/5/1979,847-728-7286,lai.gato@gato.org,555 Main St,Erie,16502,PA,6/9/2016,MASTER CARD              ,Ran Kayzap,6.99,3,174.93
+10,Lai,Gato,3/5/1979,847-728-7286,lai.gato@gato.org,555 Main St,Erie,16502,PA,6/9/2016,MASTER CARD              ,Temp Tip,13.99,2,174.93
+11,Delisa,Crupi,2/23/1979,973-354-2040,delisa.crupi@crupi.com,47565 W Grand Ave,Newark,7105,NJ,2/28/2015,MASTER CARD              ,Mat Danin,18.99,2,210.95
+11,Delisa,Crupi,2/23/1979,973-354-2040,delisa.crupi@crupi.com,47565 W Grand Ave,Newark,7105,NJ,2/28/2015,MASTER CARD              ,Donis,31.99,1,210.95
+11,Delisa,Crupi,2/23/1979,973-354-2040,delisa.crupi@crupi.com,47565 W Grand Ave,Newark,7105,NJ,2/28/2015,MASTER CARD              ,Spanfind,47.99,1,210.95
+11,Delisa,Crupi,2/23/1979,973-354-2040,delisa.crupi@crupi.com,47565 W Grand Ave,Newark,7105,NJ,2/28/2015,MASTER CARD              ,Zer Dax,92.99,1,210.95
+12,Amber,Monarrez,2/2/1979,215-934-8655,amber_monarrez@monarrez.org,55262 N French Rd,Indianapolis,46240,IN,10/25/2013,BANK ACCOUNT             ,Ran Kayzap,99.99,4,492.93
+12,Amber,Monarrez,2/2/1979,215-934-8655,amber_monarrez@monarrez.org,55262 N French Rd,Indianapolis,46240,IN,10/25/2013,BANK ACCOUNT             ,Stimstring,30.99,3,492.93
+13,Ezekiel,Chui,1/4/1979,410-669-1642,ezekiel@chui.com,4646 Kaahumanu St,Hackensack,7601,NJ,2/14/2014,ACH                      ,Anzamlax,57.99,2,181.96
+13,Ezekiel,Chui,1/4/1979,410-669-1642,ezekiel@chui.com,4646 Kaahumanu St,Hackensack,7601,NJ,2/14/2014,ACH                      ,Strongtam,32.99,2,181.96
+14,Dyan,Oldroyd,1/18/1979,913-413-4604,doldroyd@aol.com,7219 Woodfield Rd,Overland Park,66204,KS,3/3/2014,VISA                     ,Vilaity,53.99,2,421.9
+14,Dyan,Oldroyd,1/18/1979,913-413-4604,doldroyd@aol.com,7219 Woodfield Rd,Overland Park,66204,KS,3/3/2014,VISA                     ,K-qvokix,33.99,2,421.9
+14,Dyan,Oldroyd,1/18/1979,913-413-4604,doldroyd@aol.com,7219 Woodfield Rd,Overland Park,66204,KS,3/3/2014,VISA                     ,Trans Zimnix,47.99,4,421.9
+14,Dyan,Oldroyd,1/18/1979,913-413-4604,doldroyd@aol.com,7219 Woodfield Rd,Overland Park,66204,KS,3/3/2014,VISA                     ,Redtom,26.99,2,421.9
+15,Timothy,Mulqueen,2/27/1979,718-332-6527,timothy_mulqueen@mulqueen.org,7 Benton Dr,Honolulu,96819,HI,2/20/2013,MASTER CARD              ,Ron-Flex,3.99,1,463.93
+15,Timothy,Mulqueen,2/27/1979,718-332-6527,timothy_mulqueen@mulqueen.org,7 Benton Dr,Honolulu,96819,HI,2/20/2013,MASTER CARD              ,Temp Tip,77.99,2,463.93
+15,Timothy,Mulqueen,2/27/1979,718-332-6527,timothy_mulqueen@mulqueen.org,7 Benton Dr,Honolulu,96819,HI,2/20/2013,MASTER CARD              ,Strongtam,75.99,4,463.93
+16,Tyra,Shields,3/7/1979,215-255-1641,tshields@gmail.com,72 Mannix Dr,Cincinnati,45203,OH,4/23/2014,ACH                      ,X-gostrong,96.99,3,461.92
+16,Tyra,Shields,3/7/1979,215-255-1641,tshields@gmail.com,72 Mannix Dr,Cincinnati,45203,OH,4/23/2014,ACH                      ,Sil-Ity,38.99,4,461.92
+16,Tyra,Shields,3/7/1979,215-255-1641,tshields@gmail.com,72 Mannix Dr,Cincinnati,45203,OH,4/23/2014,ACH                      ,Temp Tip,14.99,1,461.92
+17,Gladys,Rim,12/25/1978,414-661-9598,gladys.rim@rim.org,322 New Horizon Blvd,Milwaukee,53207,WI,2/2/2017,MASTER CARD              ,Ran Kayzap,14.99,1,134.97
+17,Gladys,Rim,12/25/1978,414-661-9598,gladys.rim@rim.org,322 New Horizon Blvd,Milwaukee,53207,WI,2/2/2017,MASTER CARD              ,X-gostrong,59.99,2,134.97
+18,Allene,Iturbide,1/2/1979,715-662-6764,allene_iturbide@cox.net,1 Central Ave,Stevens Point,54481,WI,4/14/2016,MASTER CARD              ,Zer Dax,17.99,2,185.88
+18,Allene,Iturbide,1/2/1979,715-662-6764,allene_iturbide@cox.net,1 Central Ave,Stevens Point,54481,WI,4/14/2016,MASTER CARD              ,Redtom,20.99,4,185.88
+18,Allene,Iturbide,1/2/1979,715-662-6764,allene_iturbide@cox.net,1 Central Ave,Stevens Point,54481,WI,4/14/2016,MASTER CARD              ,Dentodox,12.99,4,185.88
+18,Allene,Iturbide,1/2/1979,715-662-6764,allene_iturbide@cox.net,1 Central Ave,Stevens Point,54481,WI,4/14/2016,MASTER CARD              ,Mat Danin,6.99,2,185.88
+21,Ilene,Eroman,2/14/1979,410-914-9018,ilene.eroman@hotmail.com,2853 S Central Expy,Glen Burnie,21061,MD,1/2/2017,ACH                      ,Statquaddax,40.99,3,210.93
+21,Ilene,Eroman,2/14/1979,410-914-9018,ilene.eroman@hotmail.com,2853 S Central Expy,Glen Burnie,21061,MD,1/2/2017,ACH                      ,Mat Danin,21.99,4,210.93
+22,Cory,Gibes,3/9/1979,626-572-1096,cory.gibes@gmail.com,2 Se 3rd Ave,Mesquite,75149,TX,2/18/2014,ACH                      ,Donnix,4.99,4,375.88
+22,Cory,Gibes,3/9/1979,626-572-1096,cory.gibes@gmail.com,2 Se 3rd Ave,Mesquite,75149,TX,2/18/2014,ACH                      ,Trans Zimnix,17.99,4,375.88
+22,Cory,Gibes,3/9/1979,626-572-1096,cory.gibes@gmail.com,2 Se 3rd Ave,Mesquite,75149,TX,2/18/2014,ACH                      ,Anzamlax,70.99,4,375.88
+23,Willow,Kusko,1/5/1979,212-582-4976,wkusko@yahoo.com,90991 Thorburn Ave,New York,10011,NY,6/21/2014,VISA                     ,Redtom,93.99,4,375.96
+24,Delisa,Crupi,2/23/1979,973-354-2040,delisa.crupi@crupi.com,47565 W Grand Ave,Newark,7105,NJ,6/4/2015,ACH                      ,Strongtam,53.99,1,221.97
+24,Delisa,Crupi,2/23/1979,973-354-2040,delisa.crupi@crupi.com,47565 W Grand Ave,Newark,7105,NJ,6/4/2015,ACH                      ,Ecoeco,83.99,2,221.97
+25,Sabra,Uyetake,1/29/1979,803-925-5213,sabra@uyetake.org,98839 Hawthorne Blvd #6101,Columbia,29201,SC,1/10/2014,VISA                     ,Ron-Flex,13.99,2,1033.84
+25,Sabra,Uyetake,1/29/1979,803-925-5213,sabra@uyetake.org,98839 Hawthorne Blvd #6101,Columbia,29201,SC,1/10/2014,VISA                     ,Statquaddax,91.99,4,1033.84
+25,Sabra,Uyetake,1/29/1979,803-925-5213,sabra@uyetake.org,98839 Hawthorne Blvd #6101,Columbia,29201,SC,1/10/2014,VISA                     ,Ron-Flex,21.99,3,1033.84
+25,Sabra,Uyetake,1/29/1979,803-925-5213,sabra@uyetake.org,98839 Hawthorne Blvd #6101,Columbia,29201,SC,1/10/2014,VISA                     ,Anzamlax,75.99,3,1033.84
+25,Sabra,Uyetake,1/29/1979,803-925-5213,sabra@uyetake.org,98839 Hawthorne Blvd #6101,Columbia,29201,SC,1/10/2014,VISA                     ,Statquaddax,85.99,4,1033.84
+26,Carma,Vanheusen,3/13/1979,510-503-7169,carma@cox.net,4 Bloomfield Ave,Irving,75061,TX,11/10/2015,ACH                      ,Duo-Kix,41.99,1,401.95
+26,Carma,Vanheusen,3/13/1979,510-503-7169,carma@cox.net,4 Bloomfield Ave,Irving,75061,TX,11/10/2015,ACH                      ,Qvo-Is,89.99,4,401.95
+27,Tammara,Wardrip,3/8/1979,650-803-1936,twardrip@cox.net,4800 Black Horse Pike,Burlingame,94010,CA,8/21/2015,ACH                      ,Solo-In,7.99,1,7.99
+28,Lorrie,Nestle,1/28/1979,931-875-6644,lnestle@hotmail.com,501 N 19th Ave,Cherry Hill,8002,NJ,4/29/2014,BANK ACCOUNT             ,Spanfind,21.99,3,598.91
+28,Lorrie,Nestle,1/28/1979,931-875-6644,lnestle@hotmail.com,501 N 19th Ave,Cherry Hill,8002,NJ,4/29/2014,BANK ACCOUNT             ,Ecoeco,86.99,1,598.91
+28,Lorrie,Nestle,1/28/1979,931-875-6644,lnestle@hotmail.com,501 N 19th Ave,Cherry Hill,8002,NJ,4/29/2014,BANK ACCOUNT             ,Trans Zimnix,89.99,3,598.91
+28,Lorrie,Nestle,1/28/1979,931-875-6644,lnestle@hotmail.com,501 N 19th Ave,Cherry Hill,8002,NJ,4/29/2014,BANK ACCOUNT             ,Vilaity,87.99,2,598.91
+29,Cecily,Hollack,2/8/1979,512-486-3817,cecily@hollack.org,1 Huntwood Ave,Phoenix,85017,AZ,11/14/2016,VISA                     ,Mat Danin,23.99,4,95.96
+30,Erick,Ferencz,1/21/1979,907-741-1044,erick.ferencz@aol.com,20 S Babcock St,Fairbanks,99712,AK,1/2/2014,BANK ACCOUNT             ,Mat Danin,55.99,4,223.96
+31,Gladys,Rim,12/25/1978,414-661-9598,gladys.rim@rim.org,2239 Shawnee Mission Pky,Tullahoma,37388,TN,5/6/2013,ACH                      ,Spanfind,58.99,4,912.84
+31,Gladys,Rim,12/25/1978,414-661-9598,gladys.rim@rim.org,2239 Shawnee Mission Pky,Tullahoma,37388,TN,5/6/2013,ACH                      ,Spanfind,72.99,3,912.84
+31,Gladys,Rim,12/25/1978,414-661-9598,gladys.rim@rim.org,2239 Shawnee Mission Pky,Tullahoma,37388,TN,5/6/2013,ACH                      ,Dentodox,5.99,1,912.84
+31,Gladys,Rim,12/25/1978,414-661-9598,gladys.rim@rim.org,2239 Shawnee Mission Pky,Tullahoma,37388,TN,5/6/2013,ACH                      ,Spanfind,75.99,4,912.84
+31,Gladys,Rim,12/25/1978,414-661-9598,gladys.rim@rim.org,2239 Shawnee Mission Pky,Tullahoma,37388,TN,5/6/2013,ACH                      ,Temp Tip,36.99,4,912.84
+32,Ezekiel,Chui,1/4/1979,410-669-1642,ezekiel@chui.com,4646 Kaahumanu St,Hackensack,7601,NJ,12/6/2015,ACH                      ,Spanfind,37.99,2,390.93
+32,Ezekiel,Chui,1/4/1979,410-669-1642,ezekiel@chui.com,4646 Kaahumanu St,Hackensack,7601,NJ,12/6/2015,ACH                      ,Donis,42.99,1,390.93
+32,Ezekiel,Chui,1/4/1979,410-669-1642,ezekiel@chui.com,4646 Kaahumanu St,Hackensack,7601,NJ,12/6/2015,ACH                      ,Stimstring,67.99,4,390.93
+33,Timothy,Mulqueen,2/27/1979,718-332-6527,timothy_mulqueen@mulqueen.org,7 Benton Dr,Honolulu,96819,HI,3/16/2015,VISA                     ,Vilaity,96.99,2,467.92
+33,Timothy,Mulqueen,2/27/1979,718-332-6527,timothy_mulqueen@mulqueen.org,7 Benton Dr,Honolulu,96819,HI,3/16/2015,VISA                     ,Redtom,90.99,2,467.92
+33,Timothy,Mulqueen,2/27/1979,718-332-6527,timothy_mulqueen@mulqueen.org,7 Benton Dr,Honolulu,96819,HI,3/16/2015,VISA                     ,Trans Zimnix,22.99,4,467.92
+34,Dyan,Oldroyd,1/18/1979,913-413-4604,doldroyd@aol.com,7219 Woodfield Rd,Overland Park,66204,KS,12/18/2014,BANK ACCOUNT             ,Donis,64.99,4,604.84
+34,Dyan,Oldroyd,1/18/1979,913-413-4604,doldroyd@aol.com,7219 Woodfield Rd,Overland Park,66204,KS,12/18/2014,BANK ACCOUNT             ,Solo-In,4.99,4,604.84
+34,Dyan,Oldroyd,1/18/1979,913-413-4604,doldroyd@aol.com,7219 Woodfield Rd,Overland Park,66204,KS,12/18/2014,BANK ACCOUNT             ,Donnix,10.99,4,604.84
+34,Dyan,Oldroyd,1/18/1979,913-413-4604,doldroyd@aol.com,7219 Woodfield Rd,Overland Park,66204,KS,12/18/2014,BANK ACCOUNT             ,Stimstring,85.99,3,604.84
+34,Dyan,Oldroyd,1/18/1979,913-413-4604,doldroyd@aol.com,7219 Woodfield Rd,Overland Park,66204,KS,12/18/2014,BANK ACCOUNT             ,Ecoeco,22.99,1,604.84
+35,Lavera,Perin,1/20/1979,305-606-7291,lperin@perin.org,798 Lund Farm Way,Rockaway,7866,NJ,12/2/2014,MASTER CARD              ,Stimstring,37.99,4,169.95
+35,Lavera,Perin,1/20/1979,305-606-7291,lperin@perin.org,798 Lund Farm Way,Rockaway,7866,NJ,12/2/2014,MASTER CARD              ,Donis,17.99,1,169.95
+36,Albina,Glick,1/10/1979,732-924-7882,albina@glick.com,4 Ralph Ct,Dunellen,8812,NJ,7/1/2013,ACH                      ,Mat Danin,94.99,3,340.93
+36,Albina,Glick,1/10/1979,732-924-7882,albina@glick.com,4 Ralph Ct,Dunellen,8812,NJ,7/1/2013,ACH                      ,Anzamlax,8.99,3,340.93
+36,Albina,Glick,1/10/1979,732-924-7882,albina@glick.com,4 Ralph Ct,Dunellen,8812,NJ,7/1/2013,ACH                      ,Ecoeco,28.99,1,340.93
+37,Carmelina,Lindall,2/9/1979,303-724-7371,carmelina_lindall@lindall.com,2664 Lewis Rd,Littleton,80126,CO,7/23/2015,VISA                     ,Zer Dax,90.99,1,350.94
+37,Carmelina,Lindall,2/9/1979,303-724-7371,carmelina_lindall@lindall.com,2664 Lewis Rd,Littleton,80126,CO,7/23/2015,VISA                     ,Zer Dax,79.99,1,350.94
+37,Carmelina,Lindall,2/9/1979,303-724-7371,carmelina_lindall@lindall.com,2664 Lewis Rd,Littleton,80126,CO,7/23/2015,VISA                     ,Ecoeco,44.99,4,350.94
+38,Jina,Briddick,1/23/1979,617-399-5124,jina_briddick@briddick.com,32860 Sierra Rd,Miami,33133,FL,12/11/2013,ACH                      ,Dentodox,43.99,1,338.94
+38,Jina,Briddick,1/23/1979,617-399-5124,jina_briddick@briddick.com,32860 Sierra Rd,Miami,33133,FL,12/11/2013,ACH                      ,Stimstring,80.99,3,338.94
+38,Jina,Briddick,1/23/1979,617-399-5124,jina_briddick@briddick.com,32860 Sierra Rd,Miami,33133,FL,12/11/2013,ACH                      ,Statquaddax,25.99,2,338.94
+39,Graciela,Ruta,3/21/1978,440-780-8425,gruta@cox.net,8 Industry Ln,New York,10002,NY,7/11/2016,ACH                      ,K-qvokix,56.99,3,350.93
+39,Graciela,Ruta,3/21/1978,440-780-8425,gruta@cox.net,8 Industry Ln,New York,10002,NY,7/11/2016,ACH                      ,Solo-In,49.99,2,350.93
+39,Graciela,Ruta,3/21/1978,440-780-8425,gruta@cox.net,8 Industry Ln,New York,10002,NY,7/11/2016,ACH                      ,Runhome,39.99,2,350.93
+40,Lavera,Perin,1/20/1979,305-606-7291,lperin@perin.org,798 Lund Farm Way,Rockaway,7866,NJ,8/12/2014,BANK ACCOUNT             ,X-gostrong,12.99,4,203.92
+40,Lavera,Perin,1/20/1979,305-606-7291,lperin@perin.org,798 Lund Farm Way,Rockaway,7866,NJ,8/12/2014,BANK ACCOUNT             ,Ran Kayzap,37.99,4,203.92
+41,Cammy,Albares,9/22/1978,956-537-6195,calbares@gmail.com,56 E Morehead St,Laredo,78045,TX,6/15/2015,ACH                      ,Sil-Ity,10.99,2,397.89
+41,Cammy,Albares,9/22/1978,956-537-6195,calbares@gmail.com,56 E Morehead St,Laredo,78045,TX,6/15/2015,ACH                      ,Anzamlax,31.99,1,397.89
+41,Cammy,Albares,9/22/1978,956-537-6195,calbares@gmail.com,56 E Morehead St,Laredo,78045,TX,6/15/2015,ACH                      ,Statquaddax,34.99,4,397.89
+41,Cammy,Albares,9/22/1978,956-537-6195,calbares@gmail.com,56 E Morehead St,Laredo,78045,TX,6/15/2015,ACH                      ,Strongtam,50.99,4,397.89
+42,Erick,Ferencz,1/21/1979,907-741-1044,erick.ferencz@aol.com,20 S Babcock St,Fairbanks,99712,AK,7/10/2016,ACH                      ,Ron-Flex,24.99,4,346.93
+42,Erick,Ferencz,1/21/1979,907-741-1044,erick.ferencz@aol.com,20 S Babcock St,Fairbanks,99712,AK,7/10/2016,ACH                      ,X-gostrong,77.99,2,346.93
+42,Erick,Ferencz,1/21/1979,907-741-1044,erick.ferencz@aol.com,20 S Babcock St,Fairbanks,99712,AK,7/10/2016,ACH                      ,Duo-Kix,90.99,1,346.93
+43,Erick,Ferencz,1/21/1979,907-741-1044,erick.ferencz@aol.com,20 S Babcock St,Fairbanks,99712,AK,2/1/2015,BANK ACCOUNT             ,Zer Dax,10.99,4,43.96
+44,Brock,Bolognia,1/27/1979,212-402-9216,bbolognia@yahoo.com,422 E 21st St,Syracuse,13214,NY,5/19/2016,MASTER CARD              ,Ron-Flex,25.99,2,349.9
+44,Brock,Bolognia,1/27/1979,212-402-9216,bbolognia@yahoo.com,422 E 21st St,Syracuse,13214,NY,5/19/2016,MASTER CARD              ,Ecoeco,49.99,2,349.9
+44,Brock,Bolognia,1/27/1979,212-402-9216,bbolognia@yahoo.com,422 E 21st St,Syracuse,13214,NY,5/19/2016,MASTER CARD              ,Duo-Kix,3.99,3,349.9
+44,Brock,Bolognia,1/27/1979,212-402-9216,bbolognia@yahoo.com,422 E 21st St,Syracuse,13214,NY,5/19/2016,MASTER CARD              ,Dentodox,61.99,3,349.9
+45,Tammara,Wardrip,3/8/1979,650-803-1936,twardrip@cox.net,4800 Black Horse Pike,Burlingame,94010,CA,2/25/2015,BANK ACCOUNT             ,Redtom,40.99,1,248.95
+45,Tammara,Wardrip,3/8/1979,650-803-1936,twardrip@cox.net,4800 Black Horse Pike,Burlingame,94010,CA,2/25/2015,BANK ACCOUNT             ,K-qvokix,51.99,4,248.95
+46,Stephaine,Barfield,3/4/1979,310-774-7643,stephaine@barfield.com,47154 Whipple Ave Nw,Gardena,90247,CA,9/17/2015,VISA                     ,Redtom,9.99,4,481.9
+46,Stephaine,Barfield,3/4/1979,310-774-7643,stephaine@barfield.com,47154 Whipple Ave Nw,Gardena,90247,CA,9/17/2015,VISA                     ,K-qvokix,73.99,4,481.9
+46,Stephaine,Barfield,3/4/1979,310-774-7643,stephaine@barfield.com,47154 Whipple Ave Nw,Gardena,90247,CA,9/17/2015,VISA                     ,Dentodox,72.99,2,481.9
+47,Elza,Lipke,2/25/1979,973-927-3447,elza@yahoo.com,6794 Lake Dr E,Newark,7104,NJ,3/15/2015,VISA                     ,Dentodox,81.99,2,570.93
+47,Elza,Lipke,2/25/1979,973-927-3447,elza@yahoo.com,6794 Lake Dr E,Newark,7104,NJ,3/15/2015,VISA                     ,Strongtam,94.99,1,570.93
+47,Elza,Lipke,2/25/1979,973-927-3447,elza@yahoo.com,6794 Lake Dr E,Newark,7104,NJ,3/15/2015,VISA                     ,Ecoeco,77.99,4,570.93
+48,Ilene,Eroman,2/14/1979,410-914-9018,ilene.eroman@hotmail.com,2853 S Central Expy,Glen Burnie,21061,MD,1/31/2015,ACH                      ,Mat Danin,100.99,3,614.9
+48,Ilene,Eroman,2/14/1979,410-914-9018,ilene.eroman@hotmail.com,2853 S Central Expy,Glen Burnie,21061,MD,1/31/2015,ACH                      ,Ron-Flex,35.99,3,614.9
+48,Ilene,Eroman,2/14/1979,410-914-9018,ilene.eroman@hotmail.com,2853 S Central Expy,Glen Burnie,21061,MD,1/31/2015,ACH                      ,K-qvokix,50.99,4,614.9
+49,Leota,Dilliard,9/15/2056,408-752-3500,leota@hotmail.com,7 W Jackson Blvd,San Jose,95111,CA,7/16/2013,ACH                      ,Duo-Kix,46.99,1,434.91
+49,Leota,Dilliard,9/15/2056,408-752-3500,leota@hotmail.com,7 W Jackson Blvd,San Jose,95111,CA,7/16/2013,ACH                      ,Ecoeco,69.99,2,434.91
+49,Leota,Dilliard,9/15/2056,408-752-3500,leota@hotmail.com,7 W Jackson Blvd,San Jose,95111,CA,7/16/2013,ACH                      ,Strongtam,43.99,4,434.91
+49,Leota,Dilliard,9/15/2056,408-752-3500,leota@hotmail.com,7 W Jackson Blvd,San Jose,95111,CA,7/16/2013,ACH                      ,Qvo-Is,35.99,2,434.91
+50,Delisa,Crupi,2/23/1979,973-354-2040,delisa.crupi@crupi.com,47565 W Grand Ave,Newark,7105,NJ,8/6/2016,VISA                     ,Stimstring,6.99,1,6.99
+51,Veronika,Inouye,12/29/1978,408-540-1785,vinouye@aol.com,6 Greenleaf Ave,San Jose,95111,CA,2/13/2017,BANK ACCOUNT             ,Runhome,62.99,4,700.89
+51,Veronika,Inouye,12/29/1978,408-540-1785,vinouye@aol.com,6 Greenleaf Ave,San Jose,95111,CA,2/13/2017,BANK ACCOUNT             ,Runhome,78.99,3,700.89
+51,Veronika,Inouye,12/29/1978,408-540-1785,vinouye@aol.com,6 Greenleaf Ave,San Jose,95111,CA,2/13/2017,BANK ACCOUNT             ,Ran Kayzap,52.99,4,700.89
+52,Arlette,Honeywell,2/28/1979,904-775-4480,ahoneywell@honeywell.com,30553 Washington Rd,Plainfield,7062,NJ,11/10/2014,BANK ACCOUNT             ,Donnix,43.99,3,131.97
+53,Minna,Amigon,5/18/2063,215-874-1229,minna_amigon@yahoo.com,2371 Jerrold Ave,Kulpsville,19443,PA,6/18/2016,MASTER CARD              ,Trans Zimnix,45.99,2,91.98
+55,Lettie,Isenhower,3/2/1979,216-657-7668,lettie_isenhower@yahoo.com,70 W Main St,Beachwood,44122,OH,3/28/2016,VISA                     ,Ran Kayzap,20.99,4,531.88
+55,Lettie,Isenhower,3/2/1979,216-657-7668,lettie_isenhower@yahoo.com,70 W Main St,Beachwood,44122,OH,3/28/2016,VISA                     ,Ron-Flex,8.99,2,531.88
+55,Lettie,Isenhower,3/2/1979,216-657-7668,lettie_isenhower@yahoo.com,70 W Main St,Beachwood,44122,OH,3/28/2016,VISA                     ,Zer Dax,14.99,2,531.88
+55,Lettie,Isenhower,3/2/1979,216-657-7668,lettie_isenhower@yahoo.com,70 W Main St,Beachwood,44122,OH,3/28/2016,VISA                     ,Ecoeco,99.99,4,531.88
+56,Art,Venere,1/10/1974,856-636-8749,art@venere.org,8 W Cerritos Ave #54,Bridgeport,8014,NJ,2/12/2016,MASTER CARD              ,Statquaddax,65.99,2,442.89
+56,Art,Venere,1/10/1974,856-636-8749,art@venere.org,8 W Cerritos Ave #54,Bridgeport,8014,NJ,2/12/2016,MASTER CARD              ,Ron-Flex,30.99,3,442.89
+56,Art,Venere,1/10/1974,856-636-8749,art@venere.org,8 W Cerritos Ave #54,Bridgeport,8014,NJ,2/12/2016,MASTER CARD              ,Ran Kayzap,30.99,4,442.89
+56,Art,Venere,1/10/1974,856-636-8749,art@venere.org,8 W Cerritos Ave #54,Bridgeport,8014,NJ,2/12/2016,MASTER CARD              ,K-qvokix,46.99,2,442.89
+58,Mitsue,Tollner,3/14/2064,773-573-6914,mitsue_tollner@yahoo.com,7 Eads St,Chicago,60632,IL,1/8/2017,ACH                      ,Solo-In,84.99,2,785.9
+58,Mitsue,Tollner,3/14/2064,773-573-6914,mitsue_tollner@yahoo.com,7 Eads St,Chicago,60632,IL,1/8/2017,ACH                      ,Qvo-Is,77.99,4,785.9
+58,Mitsue,Tollner,3/14/2064,773-573-6914,mitsue_tollner@yahoo.com,7 Eads St,Chicago,60632,IL,1/8/2017,ACH                      ,Zer Dax,76.99,2,785.9
+58,Mitsue,Tollner,3/14/2064,773-573-6914,mitsue_tollner@yahoo.com,7 Eads St,Chicago,60632,IL,1/8/2017,ACH                      ,Qvo-Is,74.99,2,785.9
+59,Solange,Shinko,1/12/1979,504-979-9175,solange@shinko.com,84 Bloomfield Ave,Spartanburg,29301,SC,10/1/2013,VISA                     ,Strongtam,43.99,4,373.9
+59,Solange,Shinko,1/12/1979,504-979-9175,solange@shinko.com,84 Bloomfield Ave,Spartanburg,29301,SC,10/1/2013,VISA                     ,Sil-Ity,52.99,2,373.9
+59,Solange,Shinko,1/12/1979,504-979-9175,solange@shinko.com,84 Bloomfield Ave,Spartanburg,29301,SC,10/1/2013,VISA                     ,Qvo-Is,22.99,4,373.9
+60,Lai,Gato,3/5/1979,847-728-7286,lai.gato@gato.org,9 Norristown Rd,Troy,12180,NY,2/3/2014,MASTER CARD              ,Sil-Ity,31.99,3,144.96
+60,Lai,Gato,3/5/1979,847-728-7286,lai.gato@gato.org,9 Norristown Rd,Troy,12180,NY,2/3/2014,MASTER CARD              ,Strongtam,48.99,1,144.96
+61,Maurine,Yglesias,2/10/1979,414-748-1374,maurine_yglesias@yglesias.com,59 Shady Ln #53,Milwaukee,53214,WI,4/3/2013,ACH                      ,X-gostrong,16.99,4,336.88
+61,Maurine,Yglesias,2/10/1979,414-748-1374,maurine_yglesias@yglesias.com,59 Shady Ln #53,Milwaukee,53214,WI,4/3/2013,ACH                      ,Donnix,16.99,3,336.88
+61,Maurine,Yglesias,2/10/1979,414-748-1374,maurine_yglesias@yglesias.com,59 Shady Ln #53,Milwaukee,53214,WI,4/3/2013,ACH                      ,Ran Kayzap,28.99,3,336.88
+61,Maurine,Yglesias,2/10/1979,414-748-1374,maurine_yglesias@yglesias.com,59 Shady Ln #53,Milwaukee,53214,WI,4/3/2013,ACH                      ,X-gostrong,84.99,1,336.88
+61,Maurine,Yglesias,2/10/1979,414-748-1374,maurine_yglesias@yglesias.com,59 Shady Ln #53,Milwaukee,53214,WI,4/3/2013,ACH                      ,Trans Zimnix,45.99,1,336.88
+62,Stephen,Emigh,3/6/1979,330-537-5358,stephen_emigh@hotmail.com,3777 E Richmond St #900,Akron,44302,OH,2/26/2015,BANK ACCOUNT             ,Mat Danin,91.99,1,168.98
+62,Stephen,Emigh,3/6/1979,330-537-5358,stephen_emigh@hotmail.com,3777 E Richmond St #900,Akron,44302,OH,2/26/2015,BANK ACCOUNT             ,Redtom,76.99,1,168.98
+63,Bernardo,Figeroa,1/6/1979,936-336-3951,bfigeroa@aol.com,386 9th Ave N,Conroe,77301,TX,7/9/2013,BANK ACCOUNT             ,Ran Kayzap,21.99,3,65.97
+64,Timothy,Mulqueen,2/27/1979,718-332-6527,timothy_mulqueen@mulqueen.org,7 Benton Dr,Honolulu,96819,HI,6/8/2014,VISA                     ,Duo-Kix,23.99,1,283.93
+64,Timothy,Mulqueen,2/27/1979,718-332-6527,timothy_mulqueen@mulqueen.org,7 Benton Dr,Honolulu,96819,HI,6/8/2014,VISA                     ,Anzamlax,85.99,2,283.93
+64,Timothy,Mulqueen,2/27/1979,718-332-6527,timothy_mulqueen@mulqueen.org,7 Benton Dr,Honolulu,96819,HI,6/8/2014,VISA                     ,Donis,21.99,4,283.93
+65,Jina,Briddick,1/23/1979,617-399-5124,jina_briddick@briddick.com,32860 Sierra Rd,Miami,33133,FL,4/17/2013,ACH                      ,Donnix,36.99,4,191.94
+65,Jina,Briddick,1/23/1979,617-399-5124,jina_briddick@briddick.com,32860 Sierra Rd,Miami,33133,FL,4/17/2013,ACH                      ,X-gostrong,21.99,2,191.94
+66,Brock,Bolognia,1/27/1979,212-402-9216,bbolognia@yahoo.com,422 E 21st St,Syracuse,13214,NY,1/1/2014,MASTER CARD              ,Donis,11.99,3,35.97
+67,Jamal,Vanausdal,2/7/1979,732-234-1546,jamal@vanausdal.org,1 N Harlem Ave #9,Orange,7050,NJ,1/17/2014,VISA                     ,Qvo-Is,69.99,4,291.93
+67,Jamal,Vanausdal,2/7/1979,732-234-1546,jamal@vanausdal.org,1 N Harlem Ave #9,Orange,7050,NJ,1/17/2014,VISA                     ,Statquaddax,3.99,3,291.93
+70,Carma,Vanheusen,3/13/1979,510-503-7169,carma@cox.net,4 Bloomfield Ave,Irving,75061,TX,11/18/2014,VISA                     ,Dentodox,26.99,3,80.97
+71,Vallie,Mondella,2/15/1979,208-862-5339,vmondella@mondella.com,455 N Main Ave,Garden City,11530,NY,11/15/2014,BANK ACCOUNT             ,Vilaity,38.99,1,38.99
+72,Laurel,Reitler,2/22/1979,410-520-4832,laurel_reitler@reitler.com,6 Kains Ave,Baltimore,21215,MD,12/23/2013,ACH                      ,Zer Dax,73.99,2,147.98
+73,Minna,Amigon,5/18/2063,215-874-1229,minna_amigon@yahoo.com,2371 Jerrold Ave,Kulpsville,19443,PA,3/16/2014,VISA                     ,Runhome,39.99,2,303.94
+73,Minna,Amigon,5/18/2063,215-874-1229,minna_amigon@yahoo.com,2371 Jerrold Ave,Kulpsville,19443,PA,3/16/2014,VISA                     ,Dentodox,55.99,4,303.94
+75,Wilda,Giguere,3/11/1979,907-870-5536,wilda@cox.net,1747 Calle Amanecer #2,Anchorage,99501,AK,2/26/2015,BANK ACCOUNT             ,Stimstring,44.99,2,89.98
+77,Carma,Vanheusen,3/13/1979,510-503-7169,carma@cox.net,4 Bloomfield Ave,Irving,75061,TX,7/25/2013,VISA                     ,Vilaity,64.99,1,64.99
+78,Myra,Munns,3/3/1979,817-914-7518,mmunns@cox.net,81 Norris Ave #525,Ronkonkoma,11779,NY,8/9/2014,MASTER CARD              ,Strongtam,61.99,4,721.91
+78,Myra,Munns,3/3/1979,817-914-7518,mmunns@cox.net,81 Norris Ave #525,Ronkonkoma,11779,NY,8/9/2014,MASTER CARD              ,Redtom,100.99,4,721.91
+78,Myra,Munns,3/3/1979,817-914-7518,mmunns@cox.net,81 Norris Ave #525,Ronkonkoma,11779,NY,8/9/2014,MASTER CARD              ,Donis,69.99,1,721.91
+79,Jina,Briddick,1/23/1979,617-399-5124,jina_briddick@briddick.com,32860 Sierra Rd,Miami,33133,FL,2/14/2013,VISA                     ,Duo-Kix,50.99,3,540.85
+79,Jina,Briddick,1/23/1979,617-399-5124,jina_briddick@briddick.com,32860 Sierra Rd,Miami,33133,FL,2/14/2013,VISA                     ,Temp Tip,70.99,4,540.85
+79,Jina,Briddick,1/23/1979,617-399-5124,jina_briddick@briddick.com,32860 Sierra Rd,Miami,33133,FL,2/14/2013,VISA                     ,Ran Kayzap,9.99,4,540.85
+79,Jina,Briddick,1/23/1979,617-399-5124,jina_briddick@briddick.com,32860 Sierra Rd,Miami,33133,FL,2/14/2013,VISA                     ,Sil-Ity,15.99,4,540.85
+80,Vallie,Mondella,2/15/1979,208-862-5339,vmondella@mondella.com,74 W College St,Boise,83707,ID,8/30/2016,MASTER CARD              ,Runhome,33.99,1,445.88
+80,Vallie,Mondella,2/15/1979,208-862-5339,vmondella@mondella.com,74 W College St,Boise,83707,ID,8/30/2016,MASTER CARD              ,Solo-In,19.99,3,445.88
+80,Vallie,Mondella,2/15/1979,208-862-5339,vmondella@mondella.com,74 W College St,Boise,83707,ID,8/30/2016,MASTER CARD              ,Temp Tip,36.99,4,445.88
+80,Vallie,Mondella,2/15/1979,208-862-5339,vmondella@mondella.com,74 W College St,Boise,83707,ID,8/30/2016,MASTER CARD              ,Solo-In,50.99,4,445.88
+81,Solange,Shinko,1/12/1979,504-979-9175,solange@shinko.com,84 Bloomfield Ave,Spartanburg,29301,SC,1/30/2016,VISA                     ,Solo-In,19.99,1,57.97
+81,Solange,Shinko,1/12/1979,504-979-9175,solange@shinko.com,84 Bloomfield Ave,Spartanburg,29301,SC,1/30/2016,VISA                     ,Zer Dax,18.99,2,57.97
+82,Valentine,Gillian,1/15/1979,210-812-9597,valentine_gillian@gmail.com,775 W 17th St,San Antonio,78204,TX,4/5/2014,BANK ACCOUNT             ,Anzamlax,6.99,4,106.95
+82,Valentine,Gillian,1/15/1979,210-812-9597,valentine_gillian@gmail.com,775 W 17th St,San Antonio,78204,TX,4/5/2014,BANK ACCOUNT             ,Mat Danin,78.99,1,106.95
+83,Lorrie,Nestle,1/28/1979,931-875-6644,lnestle@hotmail.com,39 S 7th St,Tullahoma,37388,TN,12/17/2016,MASTER CARD              ,Runhome,27.99,3,83.97
+84,Emerson,Bowley,1/25/1979,608-336-7444,emerson.bowley@bowley.org,762 S Main St,Madison,53711,WI,8/27/2015,MASTER CARD              ,Spanfind,87.99,4,351.96
+85,Ezekiel,Chui,1/4/1979,410-669-1642,ezekiel@chui.com,4646 Kaahumanu St,Hackensack,7601,NJ,7/14/2014,ACH                      ,Redtom,67.99,3,203.97
+86,Mitsue,Tollner,3/14/2064,773-573-6914,mitsue_tollner@yahoo.com,7 Eads St,Chicago,60632,IL,8/6/2015,MASTER CARD              ,Dentodox,72.99,3,218.97
+87,James,Butt,12/8/1978,504-621-8927,jbutt@gmail.com,2409 Alabama Rd,Riverside,92501,CA,11/8/2014,MASTER CARD              ,K-qvokix,31.99,3,320.94
+87,James,Butt,12/8/1978,504-621-8927,jbutt@gmail.com,2409 Alabama Rd,Riverside,92501,CA,11/8/2014,MASTER CARD              ,Stimstring,24.99,1,320.94
+87,James,Butt,12/8/1978,504-621-8927,jbutt@gmail.com,2409 Alabama Rd,Riverside,92501,CA,11/8/2014,MASTER CARD              ,Statquaddax,99.99,2,320.94
+89,Myra,Munns,3/3/1979,817-914-7518,mmunns@cox.net,81 Norris Ave #525,Ronkonkoma,11779,NY,8/4/2013,VISA                     ,Spanfind,22.99,3,125.94
+89,Myra,Munns,3/3/1979,817-914-7518,mmunns@cox.net,81 Norris Ave #525,Ronkonkoma,11779,NY,8/4/2013,VISA                     ,Temp Tip,22.99,2,125.94
+89,Myra,Munns,3/3/1979,817-914-7518,mmunns@cox.net,81 Norris Ave #525,Ronkonkoma,11779,NY,8/4/2013,VISA                     ,Donnix,10.99,1,125.94
+90,Kati,Rulapaugh,1/16/1979,785-463-7829,kati.rulapaugh@hotmail.com,6980 Dorsett Rd,Abilene,67410,KS,1/19/2015,BANK ACCOUNT             ,Duo-Kix,18.99,3,152.95
+90,Kati,Rulapaugh,1/16/1979,785-463-7829,kati.rulapaugh@hotmail.com,6980 Dorsett Rd,Abilene,67410,KS,1/19/2015,BANK ACCOUNT             ,Solo-In,47.99,2,152.95
+91,Timothy,Mulqueen,2/27/1979,718-332-6527,timothy_mulqueen@mulqueen.org,44 W 4th St,Staten Island,10309,NY,11/17/2016,ACH                      ,Ecoeco,82.99,4,367.94
+91,Timothy,Mulqueen,2/27/1979,718-332-6527,timothy_mulqueen@mulqueen.org,44 W 4th St,Staten Island,10309,NY,11/17/2016,ACH                      ,Donis,17.99,2,367.94
+92,Lettie,Isenhower,3/2/1979,216-657-7668,lettie_isenhower@yahoo.com,5161 Dorsett Rd,Homestead,33030,FL,1/30/2016,VISA                     ,Vilaity,65.99,4,944.82
+92,Lettie,Isenhower,3/2/1979,216-657-7668,lettie_isenhower@yahoo.com,5161 Dorsett Rd,Homestead,33030,FL,1/30/2016,VISA                     ,Donnix,88.99,3,944.82
+92,Lettie,Isenhower,3/2/1979,216-657-7668,lettie_isenhower@yahoo.com,5161 Dorsett Rd,Homestead,33030,FL,1/30/2016,VISA                     ,Donis,17.99,1,944.82
+92,Lettie,Isenhower,3/2/1979,216-657-7668,lettie_isenhower@yahoo.com,5161 Dorsett Rd,Homestead,33030,FL,1/30/2016,VISA                     ,Vilaity,67.99,4,944.82
+92,Lettie,Isenhower,3/2/1979,216-657-7668,lettie_isenhower@yahoo.com,5161 Dorsett Rd,Homestead,33030,FL,1/30/2016,VISA                     ,Mat Danin,42.99,2,944.82
+92,Lettie,Isenhower,3/2/1979,216-657-7668,lettie_isenhower@yahoo.com,5161 Dorsett Rd,Homestead,33030,FL,1/30/2016,VISA                     ,Qvo-Is,8.99,3,944.82
+92,Lettie,Isenhower,3/2/1979,216-657-7668,lettie_isenhower@yahoo.com,5161 Dorsett Rd,Homestead,33030,FL,1/30/2016,VISA                     ,Trans Zimnix,10.99,1,944.82
+93,Shenika,Seewald,2/3/1979,818-423-4007,shenika@gmail.com,303 N Radcliffe St,Hilo,96720,HI,9/3/2013,MASTER CARD              ,Donnix,92.99,4,815.9
+93,Shenika,Seewald,2/3/1979,818-423-4007,shenika@gmail.com,303 N Radcliffe St,Hilo,96720,HI,9/3/2013,MASTER CARD              ,Trans Zimnix,85.99,2,815.9
+93,Shenika,Seewald,2/3/1979,818-423-4007,shenika@gmail.com,303 N Radcliffe St,Hilo,96720,HI,9/3/2013,MASTER CARD              ,Ron-Flex,67.99,4,815.9
+94,Lavera,Perin,1/20/1979,305-606-7291,lperin@perin.org,798 Lund Farm Way,Rockaway,7866,NJ,12/31/2015,VISA                     ,Donis,3.99,1,231.96
+94,Lavera,Perin,1/20/1979,305-606-7291,lperin@perin.org,798 Lund Farm Way,Rockaway,7866,NJ,12/31/2015,VISA                     ,Statquaddax,75.99,3,231.96
+95,Tammara,Wardrip,3/8/1979,650-803-1936,twardrip@cox.net,4800 Black Horse Pike,Burlingame,94010,CA,11/9/2014,ACH                      ,Vilaity,20.99,2,41.98
+96,Lorrie,Nestle,1/28/1979,931-875-6644,lnestle@hotmail.com,501 N 19th Ave,Cherry Hill,8002,NJ,4/2/2014,BANK ACCOUNT             ,Spanfind,40.99,1,756.81
+96,Lorrie,Nestle,1/28/1979,931-875-6644,lnestle@hotmail.com,501 N 19th Ave,Cherry Hill,8002,NJ,4/2/2014,BANK ACCOUNT             ,Temp Tip,8.99,4,756.81
+96,Lorrie,Nestle,1/28/1979,931-875-6644,lnestle@hotmail.com,501 N 19th Ave,Cherry Hill,8002,NJ,4/2/2014,BANK ACCOUNT             ,X-gostrong,49.99,4,756.81
+96,Lorrie,Nestle,1/28/1979,931-875-6644,lnestle@hotmail.com,501 N 19th Ave,Cherry Hill,8002,NJ,4/2/2014,BANK ACCOUNT             ,Sil-Ity,54.99,3,756.81
+96,Lorrie,Nestle,1/28/1979,931-875-6644,lnestle@hotmail.com,501 N 19th Ave,Cherry Hill,8002,NJ,4/2/2014,BANK ACCOUNT             ,X-gostrong,44.99,4,756.81
+96,Lorrie,Nestle,1/28/1979,931-875-6644,lnestle@hotmail.com,501 N 19th Ave,Cherry Hill,8002,NJ,4/2/2014,BANK ACCOUNT             ,Spanfind,44.99,3,756.81
+97,Tammara,Wardrip,3/8/1979,650-803-1936,twardrip@cox.net,4800 Black Horse Pike,Burlingame,94010,CA,1/8/2014,BANK ACCOUNT             ,Anzamlax,6.99,4,107.95
+97,Tammara,Wardrip,3/8/1979,650-803-1936,twardrip@cox.net,4800 Black Horse Pike,Burlingame,94010,CA,1/8/2014,BANK ACCOUNT             ,Anzamlax,79.99,1,107.95
+98,Kallie,Blackwood,2/16/1979,415-315-2761,kallie.blackwood@gmail.com,701 S Harrison Rd,San Francisco,94104,CA,10/29/2013,ACH                      ,Sil-Ity,26.99,4,135.95
+98,Kallie,Blackwood,2/16/1979,415-315-2761,kallie.blackwood@gmail.com,701 S Harrison Rd,San Francisco,94104,CA,10/29/2013,ACH                      ,Solo-In,27.99,1,135.95
+99,Stephen,Emigh,3/6/1979,330-537-5358,stephen_emigh@hotmail.com,3777 E Richmond St #900,Akron,44302,OH,6/18/2015,VISA                     ,Duo-Kix,29.99,4,265.94
+99,Stephen,Emigh,3/6/1979,330-537-5358,stephen_emigh@hotmail.com,3777 E Richmond St #900,Akron,44302,OH,6/18/2015,VISA                     ,Donnix,72.99,2,265.94
